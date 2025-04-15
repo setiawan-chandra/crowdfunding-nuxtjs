@@ -1,7 +1,11 @@
+import tailwindcss from "@tailwindcss/vite";
+
 export default defineNuxtConfig({
   devtools: { enabled: true },
   modules: ['@nuxt/icon', '@nuxt/fonts', '@nuxt/image'],
-  css: ['@/assets/css/tailwind.css'],
+  css: [
+    '@/assets/css/main.css',
+  ],
   app: {
     head: {
       link: [
@@ -14,6 +18,10 @@ export default defineNuxtConfig({
       ]
     }
   },
-
+  vite: {
+    plugins: [
+      tailwindcss(),
+    ],
+  },
   compatibilityDate: '2025-04-05'
 })

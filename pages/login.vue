@@ -50,9 +50,9 @@
 </script>
 
 <style scoped>
-.auth-background {
-  background-image: url("/images/sign-in-background.jpg");
-  background-position: center;
-  background-size: cover;
-}
+  .auth-background {
+    background-image: url("/images/sign-in-background.jpg");
+    background-position: center;
+    background-size: cover;
+  }
 </style>

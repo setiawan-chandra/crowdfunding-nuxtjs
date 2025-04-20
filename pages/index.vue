@@ -169,7 +169,7 @@
                   <div class="ml-auto font-semibold">Rp 80.000.000</div>
                 </div>
                 <nuxt-link
-                    to="/projects/1"
+                    to="/projects/2"
                     class="text-center mt-5 button-cta block w-full bg-orange-button hover:bg-green-button text-white font-semibold px-6 py-2 text-lg rounded-full"
                 >
                     Fund Now
@@ -210,7 +210,7 @@
                   <div class="ml-auto font-semibold">Rp 40.000.000</div>
                 </div>
                 <nuxt-link
-                    to="/projects/1"
+                    to="/projects/3"
                     class="text-center mt-5 button-cta block w-full bg-orange-button hover:bg-green-button text-white font-semibold px-6 py-2 text-lg rounded-full"
                 >
                     Fund Now
@@ -253,7 +253,7 @@
                   <div class="ml-auto font-semibold">Rp 55.000.000</div>
                 </div>
                 <nuxt-link
-                    to="/projects/1"
+                    to="/projects/4"
                     class="text-center mt-5 button-cta block w-full bg-orange-button hover:bg-green-button text-white font-semibold px-6 py-2 text-lg rounded-full"
                 >
                     Fund Now
@@ -294,7 +294,7 @@
                   <div class="ml-auto font-semibold">Rp 75.000.000</div>
                 </div>
                 <nuxt-link
-                    to="images/projects/1"
+                    to="/projects/5"
                     class="text-center mt-5 button-cta block w-full bg-orange-button hover:bg-green-button text-white font-semibold px-6 py-2 text-lg rounded-full"
                 >
                     Fund Now
@@ -335,7 +335,7 @@
                   <div class="ml-auto font-semibold">Rp 35.000.000</div>
                 </div>
                 <nuxt-link
-                    to="/projects/1"
+                    to="/projects/6"
                     class="text-center mt-5 button-cta block w-full bg-orange-button hover:bg-green-button text-white font-semibold px-6 py-2 text-lg rounded-full"
                 >
                     Fund Now

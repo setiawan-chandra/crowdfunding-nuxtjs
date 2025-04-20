@@ -5,6 +5,7 @@ export default defineNuxtConfig({
   modules: ['@nuxt/icon', '@nuxt/fonts', '@nuxt/image'],
   css: [
     '@/assets/css/main.css',
+    '@/assets/css/custom.css',
   ],
   app: {
     head: {

@@ -1,6 +1,6 @@
 <template>
     <div class="landing-page">
-      <section class="landing-hero pt-5">
+      <section class="landing-hero pt-5 px-10">
         <div class="header__bg"></div>
         <div class="container mx-auto relative">
           <Navbar />
@@ -28,7 +28,7 @@
           </div>
         </div>
       </section>
-      <section class="container mx-auto pt-24">
+      <section class="container mx-auto pt-24 px-10">
         <div class="flex justify-between items-center mb-10">
           <div class="w-auto">
             <h2 class="text-3xl text-gray-900 mb-8">
@@ -80,7 +80,7 @@
           </div>
         </div>
       </section>
-      <section class="container mx-auto pt-24">
+      <section class="container mx-auto pt-24 px-10">
         <div class="flex justify-between items-center">
           <div class="w-auto">
             <h2 class="text-3xl text-gray-900 mb-8">
@@ -345,7 +345,7 @@
           </div>
         </div>
       </section>
-      <section class="container mx-auto pt-24">
+      <section class="container mx-auto pt-24 px-10">
         <div class="flex justify-between items-center">
           <div class="w-auto">
             <h2 class="text-3xl text-gray-900 mb-8">
